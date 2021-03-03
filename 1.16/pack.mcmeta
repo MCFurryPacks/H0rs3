@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": "Converts some blocks (8x8) into a h0rs3 animation.",
+		"version": {
+			"git": "1.0.2",
+			"mc": "1.16"
+		}
+	}
+}
