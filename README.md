@@ -1,5 +1,5 @@
 # H0rs3
-Replaces some blocks with a h0rs3 animation. See [Blocks](#blocks) for placements, and [Souces](#sources) for the source.
+Replaces some blocks with a h0rs3 animation. See [Blocks](#blocks) for placements, and [Souces](#sources) for the source. Supports 1.12+
 
 ### Blocks 
 8x8, top to bottom
