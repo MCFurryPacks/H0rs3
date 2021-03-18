@@ -1,4 +1,4 @@
-# All further development has been moved to [git.furry.cool](https://git.furry.cool/H0rs3)
+# All further development has been moved to [git.furry.cool](https://git.furry.cool/MCFurryPacks/H0rs3)
 
 # H0rs3
 Replaces some blocks with a h0rs3 animation. See [Blocks](#blocks) for placements, and [Souces](#sources) for the source. Supports 1.12+
